@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="hazelcast-5.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-distribution-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-kinesis-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/log4j-slf4j-impl-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-sql-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-wm-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/jline-reader-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-csv-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-s3-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-kafka-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/jline-terminal-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-files-gcs-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-3-connector-common-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-cdc-mysql-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-protobuf-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/jmx_prometheus_javaagent-0.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-cdc-debezium-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/jline-terminal-jansi-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-grpc-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/log4j-api-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-avro-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-mapstore-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-3-connector-interface-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-files-s3-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-elasticsearch-7-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/log4j-core-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/log4j-layout-template-json-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/jansi-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-python-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-cdc-postgres-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/picocli-4.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/cache-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hazelcast/hazelcast-5.2.1/lib/hazelcast-jet-hadoop-all-5.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
